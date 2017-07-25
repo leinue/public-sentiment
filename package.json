@@ -1,0 +1,23 @@
+{
+  "name": "public-sentiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leinue/public-sentiment.git"
+  },
+  "author": "xieyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leinue/public-sentiment/issues"
+  },
+  "homepage": "https://github.com/leinue/public-sentiment#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "crawler": "^1.0.5"
+  }
+}
